@@ -2,11 +2,11 @@ class BtcTui < Formula
   include Language::Python::Virtualenv
 
   desc "BTC live trade terminal with candlestick chart"
-  homepage "https://github.com/YOUR_USERNAME/btc-tui"
+  homepage "https://github.com/bscript/btc-tui"
   url "https://files.pythonhosted.org/packages/source/b/btc-tui/btc_tui-0.1.0.tar.gz"
   sha256 "REPLACE_WITH_SHA256_AFTER_PYPI_UPLOAD"
   license "MIT"
-  head "https://github.com/YOUR_USERNAME/btc-tui.git", branch: "main"
+  head "https://github.com/bscript/btc-tui.git", branch: "main"
 
   bottle do
     # Bottles will be generated automatically by GitHub Actions
