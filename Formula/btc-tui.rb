@@ -3,8 +3,8 @@ class BtcTui < Formula
 
   desc "BTC live trade terminal with candlestick chart"
   homepage "https://github.com/bscript/btc-tui"
-  url "https://files.pythonhosted.org/packages/source/b/btc-tui/btc_tui-0.1.4.tar.gz"
-  sha256 "b471bc3cbe73d08e512ffae39da7e0ce25ba72e69546a34f79ea4f732c86c1b6"
+  url "https://files.pythonhosted.org/packages/source/b/btc-tui/btc_tui-0.1.5.tar.gz"
+  sha256 "715796e42bf87545377273dff839a76f90fefd5432f313412747bdd8da7fb20b"
   license "MIT"
   head "https://github.com/bscript/btc-tui.git", branch: "main"
 
