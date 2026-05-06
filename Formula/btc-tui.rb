@@ -16,7 +16,7 @@ class BtcTui < Formula
 
   resource "websockets" do
     url "https://files.pythonhosted.org/packages/source/w/websockets/websockets-14.2.tar.gz"
-    sha256 "9e9b4aa3d5900c8f54a1e7858f9a6f1a0ccd5e6bfbce9b89a8a4fc83c8d6eb33"
+    sha256 "5059ed9c54945efb321f097084b4c7e52c246f2c869815876a69d1efc4ad6eb5"
   end
 
   def install
